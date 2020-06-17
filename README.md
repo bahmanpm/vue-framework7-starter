@@ -1,13 +1,13 @@
-# bourse-analyser
+# vue-framework7-starter
 
 ## Project setup
 ```
-npm install
+sudo npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+sudo npm run serve
 ```
 
 ### Compiles and minifies for production
